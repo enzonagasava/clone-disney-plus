@@ -7,7 +7,7 @@
     text-align: center;
     background-size: cover;
 
-    @media (max-height:768px){
+    @media (max-width:768px){
         background-image: url(../../dist/images/hero_celular.jpeg);
         padding-top: calc(50vw + 25px);
         background-size: contain;
